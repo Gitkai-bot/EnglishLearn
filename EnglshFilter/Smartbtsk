@@ -1,3 +1,4 @@
 ! Title: Fltr bitcotasks
 bitcotasks.com##+js(nano-sib)
 bitcotasks.com#@#+js(nostif, alert)
+bitcotasks.com##+js(set, captcha_valid, true)
